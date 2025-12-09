@@ -1,0 +1,16 @@
+feature,corr_with_target,abs_corr
+age,-0.02244701437377568,0.02244701437377568
+hw_done_rate,-0.0037609350484641303,0.0037609350484641303
+attendance_rate,-0.001280638998797791,0.001280638998797791
+stress_level_x,,
+anxiety_score_x,,
+depression_score_x,,
+sentiment_score_x,,
+sleep_hours_x,,
+msg_count,,
+last_contact,,
+stress_level_y,,
+anxiety_score_y,,
+depression_score_y,,
+sentiment_score_y,,
+sleep_hours_y,,
