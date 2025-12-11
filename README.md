@@ -302,15 +302,60 @@ Email: bsaripalli@regis.edu
 
 References
 
-Kaggle Student Performance and Attendance Dataset https://www.kaggle.com/datasets/marvyaymanhalim/student-performance-and-attendance-dataset
+1.Kaggle Student Performance and Attendance Dataset https://www.kaggle.com/datasets/marvyaymanhalim/student-performance-and-attendance-dataset
 
-Mendeley Student Dataset 
+2.Mendeley Student Dataset 
 https://data.mendeley.com/datasets/4mvgvtxc8s/1
 
-CORE Social-Emotional Learning (SEL) Dataset https://dataqualitycampaign.org/wp-content/uploads/2018/03/DQC-CORE-CaseStudy-2018Mar22.pdf 
+3.CORE Social-Emotional Learning (SEL) Dataset https://dataqualitycampaign.org/wp-content/uploads/2018/03/DQC-CORE-CaseStudy-2018Mar22.pdf 
 
-Kaggle Student Mental Health & Resilience Dataset https://www.kaggle.com/datasets/ziya07/student-mental-health-and-resilience-dataset
+4.Kaggle Student Mental Health & Resilience Dataset https://www.kaggle.com/datasets/ziya07/student-mental-health-and-resilience-dataset
 
-Why scientists need to be better at data visualization (Betsy Mason 11.12.2019)
+5.Why scientists need to be better at data visualization (Betsy Mason 11.12.2019)
 https://knowablemagazine.org/content/article/mind/2019/science-data-visualization
 
+6.IBM white paper about the Foundational Methodology for Data Science. 
+file:///C:/Users/balar/Downloads/IBMOpenSource_FoundationalMethologyforDataScience%20(1).PDF
+
+7.Essential tools for Data Science
+https://www.youtube.com/watch?v=pAXeCpwKgYg
+
+8.Big Data Management. (n.d.). Retrieved November 05, 2020, from 
+https://www.datamation.com/big-data/big-data-management.html
+
+9.The Belmont Report. (2010, January 28). HHS.Gov. 
+https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html
+
+10.Descriptive and Inferential Statistics. (n.d.). Retrieved from 
+https://luminousmen.com/post/descriptive-and-inferential-statistics
+
+11.Trochim, P. (n.d.). Descriptive Statistics. Retrieved  from 
+https://conjointly.com/kb/descriptive-statistics/
+
+12.What is Descriptive Statistics? - Data Science and Data Analytics. (2017, February 28). Retrieved  from 
+https://www.cognixia.com/blog/what-is-descriptive-statistics
+
+13.Gottfried, in press at Urban Education
+https://www.attendanceworks.org/wp-content/uploads/2017/09/AW-gottfried_chronic_peers-2.pdf
+
+14.A Motivational Perspective
+on Engagement and Disaffection
+Conceptualization and Assessment
+of Children’s Behavioral and
+Emotional Participation in
+Academic Activities in the Classroom
+Ellen A. Skinner
+Thomas A. Kindermann
+Portland State University, Oregon
+Carrie J. Furrer
+NPC Research
+https://qqseminar.weebly.com/uploads/1/5/2/4/152407464/skinner-et-al-2008-a-motivational-perspective-on-engagement-and-disaffection-conceptualization-and-assessment-of.pdf
+
+15.Project drive path
+https://drive.google.com/drive/folders/1p6k0R9_QJVPjRFnxLE4XmdHlA7EXplwA?usp=sharing
+
+16.ChatGPT (OpenAI)
+OpenAI. (2025). ChatGPT (version GPT-5.1) [Large language model]. https://chat.openai.com/
+
+17.Perplexity AI
+Perplexity AI. (2025). Perplexity AI conversational search engine [AI model]. https://www.perplexity.ai/
