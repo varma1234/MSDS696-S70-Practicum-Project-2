@@ -228,7 +228,6 @@ Outputs saved to /content/drive/My Drive/Practicum_Project_2/outputs/charts/ inc
 
 •	Confusion matrix, ROC and PR curves
 
-Planned dashboard: lightweight interactive summarization (Tableau Public or Power BI) showing top risk signals and cluster profiles to help educators triage outreach.
 
 Project Structure (repo / drive layout)
 
