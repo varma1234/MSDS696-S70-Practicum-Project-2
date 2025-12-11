@@ -359,3 +359,6 @@ OpenAI. (2025). ChatGPT (version GPT-5.1) [Large language model]. https://chat.o
 
 17.Perplexity AI
 Perplexity AI. (2025). Perplexity AI conversational search engine [AI model]. https://www.perplexity.ai/
+
+
+Note : Every reference i went through toroughly make how good to know about tecnical concepts and data sceince manadate priciples to know and can be used based on requirement to progress in each step of project and these references helped me to complete the end to end project and i used AI models for formating the documents , asking suggestions when i got stuck in middle , debugging code and learning the concepts regarding my project
