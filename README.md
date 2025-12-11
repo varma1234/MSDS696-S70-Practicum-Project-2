@@ -51,9 +51,21 @@ This project follows a clear and structured data science workflow:
    * Built baseline machine learning models (Logistic Regression, Random Forest, SVM, etc.).
    * Evaluated models for accuracy, precision, and early-risk detection capability.
 
-5. **Visualization & Interpretation**
+5. **Key Visualizations**
 
-   * Created dashboards and charts to highlight predictors and risk indicators.
+   Feature Importance
+   <img width="884" height="660" alt="image" src="https://github.com/user-attachments/assets/952af48b-a3aa-484e-90de-e50e8690c7f2" />
+
+   Correlation Heatmap .
+   <img width="828" height="726" alt="image" src="https://github.com/user-attachments/assets/aa1c21a9-108a-4795-b01d-77fef075c7ee" />
+
+    Simple dashboard for our model
+    <img width="1148" height="733" alt="image" src="https://github.com/user-attachments/assets/0922e64d-7204-4fbb-8937-302ac490ed00" />
+
+    Model test metrics
+   
+    <img width="509" height="146" alt="image" src="https://github.com/user-attachments/assets/94d8687b-3134-481a-b1c2-d45f47ff28d6" />
+
 
 
 ##  **Repository Structure**
