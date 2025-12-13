@@ -84,7 +84,7 @@ This project follows a clear and structured data science workflow:
 All final project outputs will be included in the **Final Deliverables** folder:
 
 *  Final Report : https://github.com/varma1234/MSDS696-S70-Practicum-Project-2/tree/main/Report
-*  Presentation Slide Deck (PDF or PowerPoint)
+*  Presentation Slide Deck (PDF or PowerPoint) : https://drive.google.com/drive/folders/1_rOVd0-4eCXjm7X58ejz2T491qAp2vJF?usp=sharing
 *  Jupyter Notebooks : https://drive.google.com/drive/folders/1o17i5K6hRySWB8ZfCUxSu6OLwW2jv0q-?usp=sharing
 *  A text file submitted in WorldClass with the GitHub repository link : https://github.com/varma1234/MSDS696-S70-Practicum-Project-2
 
